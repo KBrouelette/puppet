@@ -1,0 +1,3 @@
+package { 'bacula':
+   ensure => installed,
+}
